@@ -3,7 +3,7 @@ un blog para el curso de git de platzi
 
 ## Comenzando 🚀
 
-_Este proyecto es un blog que gice en el curso de platzi; git-github._
+_Este proyecto es un blog que hice en el curso de platzi: git-github._
 
 ## Construido con 🛠️
 
